@@ -10,12 +10,12 @@ Sublime Text syntax highlighting for HL7 content.
 
 Sublime Text 2:
 
-    git clone https://github.com/craighurley/sublime-hl7-syntax.git \
+    git clone https://github.com/probers1/sublime-hl7-syntax.git \
     ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/sublime-hl7-syntax
 
 Sublime Text 3:
 
-    git clone https://github.com/craighurley/sublime-hl7-syntax.git \
+    git clone https://github.com/probers1/sublime-hl7-syntax.git \
     ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/sublime-hl7-syntax
 
 ## Usage
