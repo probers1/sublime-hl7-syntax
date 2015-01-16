@@ -71,6 +71,14 @@
             </array>
         </dict>
         <dict>
+            <key>comment</key>
+            <string>DateTime</string>
+            <key>match</key>
+            <string>\d\d\d\d\d\d\d\d\d\d\d\d\d\d</string>
+            <key>name</key>
+            <string>constant.numeric</string>
+        </dict>
+        <dict>
             <key>match</key>
             <string>\|</string>
             <key>name</key>
