@@ -76,7 +76,7 @@
             <key>match</key>
             <string>\d\d\d\d\d\d\d\d\d\d\d\d\d\d</string>
             <key>name</key>
-            <string>constant.numeric</string>
+            <string>entity.other.inherited-class.hl7</string>
         </dict>
         <dict>
             <key>match</key>
